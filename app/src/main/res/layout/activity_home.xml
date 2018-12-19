@@ -160,7 +160,7 @@
 
                      <ImageView
                         android:layout_weight="1"
-                        android:src="@drawable/teamwork"
+                        android:src="@drawable/enterprise"
                         android:gravity="center"
                         android:layout_width="match_parent"
                         android:layout_height="0dp" />
@@ -233,8 +233,9 @@
 
                     <ImageView
                         android:layout_weight="1"
-                        android:src="@drawable/follower"
+                        android:src="@drawable/notification"
                         android:gravity="center"
+
                         android:layout_width="match_parent"
                         android:layout_height="0dp" />
 
@@ -267,7 +268,7 @@
 
                     <ImageView
                         android:layout_weight="1"
-                        android:src="@drawable/rss"
+                        android:src="@drawable/icon"
                         android:gravity="center"
                         android:layout_width="match_parent"
                         android:layout_height="0dp" />
@@ -303,7 +304,7 @@
 
                     <ImageView
                         android:layout_weight="1"
-                        android:src="@drawable/contact"
+                        android:src="@drawable/phoneoperator"
                         android:gravity="center"
                         android:layout_width="match_parent"
                         android:layout_height="0dp" />
